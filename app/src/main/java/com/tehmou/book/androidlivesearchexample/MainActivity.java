@@ -1,10 +1,11 @@
 package com.tehmou.book.androidlivesearchexample;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.jakewharton.rxbinding2.widget.RxTextView;
 
